@@ -1,4 +1,4 @@
-package guru.springframework.msscbeerconfig;
+package com.github.amag.msscbeerconfig;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
